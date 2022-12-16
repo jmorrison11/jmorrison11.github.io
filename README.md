@@ -15,6 +15,6 @@ In the coding windows I like working in HTML and the styling languages and I'm a
 
 ## Since this is an online portfolio I'm sure you're interested in more then just what I like do.
 
-### Follow this page to look at resume
+### Resume
 
-### Follow this page to look at a project list
+### Project List
