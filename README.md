@@ -5,7 +5,7 @@ A major in Computer Science and a concentration in software development as well 
 
 ### [Resume](https://docs.google.com/document/d/1JCJcp2bGHKMuNlelk9N0cZ2BCtkkqdsyaiWxkWBBWd4/edit?usp=sharing)
 
-### Project List
+### [Project List](https://jmorrison11.github.io/projects)
 
 ### [LinkedIn](https://www.linkedin.com/feed/)
 
