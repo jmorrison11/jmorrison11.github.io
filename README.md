@@ -7,7 +7,7 @@ A major in Computer Science and a concentration in software development as well 
 
 ### Project List
 
-### LinkedIn
+### [LinkedIn](https://www.linkedin.com/feed/)
 
 ## I have a lot of interests outside of the computer screen.
 I love to create things, in any form of media. Portrait work with graphite or charcoal, digital art, writing stories, and just about anything you can think of. Well... except maybe pottery and I'm only just getting into crochetting. 
