@@ -15,7 +15,7 @@ click the link to learn more about them
 
 ### 4. [Demonstration of Object-Oriented Programming (Java)](https://jmorrison11.github.io/projects/fallingsand/)
 
-### 5. [Generating Anime Girl Profile Pictures using Generative Adversarial Networks (GANs)] (https://docs.google.com/document/d/1ApjsivXtgPK96RcoFizSxukXblAEcTayfSxSIYcvPb8/edit?usp=sharing) (Python)
+### 5. [Generating Anime Girl Profile Pictures using Generative Adversarial Networks (GANs)](https://docs.google.com/document/d/1ApjsivXtgPK96RcoFizSxukXblAEcTayfSxSIYcvPb8/edit?usp=sharing) (Python)
 
 ### 6. [Modifying an eShop (C#)](https://jmorrison11.github.io/projects/eshop/)
 
