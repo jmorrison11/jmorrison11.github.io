@@ -1,6 +1,6 @@
 <!-- layout: page
 title: "animelist"
-permalink: /projects/animelist/ -->
+permalink: /animelist/ -->
 
 # Scenebuilder with API List (MyAnimeList)
 
