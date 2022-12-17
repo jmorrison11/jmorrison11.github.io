@@ -16,7 +16,3 @@ click the link to learn more about them
 #### 5. [Generating Anime Girl Profile Pictures using Generative Adversarial Networks (GANs)](https://docs.google.com/document/d/1ApjsivXtgPK96RcoFizSxukXblAEcTayfSxSIYcvPb8/edit?usp=sharing) (Python)
 
 #### 6. [Modifying an eShop](https://jmorrison11.github.io/eshop) (C#)
-
-#### 7. [RPG](https://jmorrison11.github.io/RPG) (Unity Engine in C# ((out-dated)))
-
-#### 8. [2D and 3D Platformer](https://jmorrison11.github.io/platformer) (Unity Engine in C# ((out-dated)))
