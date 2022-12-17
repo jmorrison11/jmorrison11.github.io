@@ -2,7 +2,8 @@
 title: "covidtracing"
 permalink: /covidtracing/ -->
 
-# This is a "COVID" tracing program (This isn't real COVID data)
+# List Interfaces and Bridges
+## This is a "COVID" tracing program (This isn't real COVID data)
 
 This was built using the IDE Netbeans in Java with ANT. And the visualization was made using http://bridges-cs.herokuapp.com/. 
 ![Visual of the bridges, vertices, and edges.](covidtracing.png)
@@ -13,3 +14,7 @@ This was built using the IDE Netbeans in Java with ANT. And the visualization wa
   - The users were sorted by ID number and colored in the visualization; yellow means that they are infected. 
   - By using a binary search I was able to create edges between those people who had had contact with each other in the last two weeks. 
 
+
+##### [the repository](https://github.com/jmorrison11/CovidTracing)
+###### [back to home](jmorrison11.github.io)
+###### [back to project list](https://jmorrison11.github.io/projects)
