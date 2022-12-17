@@ -1,9 +1,3 @@
-<!-- layout: page
-title: "projects"
-permalink: /projects/ -->
-
-###### [back to home](https://jmorrison11.github.io)
-
 # Here is a list of some of the projects I've worked on:
 click the link to learn more about them
 
@@ -22,5 +16,3 @@ click the link to learn more about them
 #### 7. [RPG](https://jmorrison11.github.io/projects/RPG/) (Unity Engine in C# ((out-dated)))
 
 #### 8. [2D and 3D Platformer](https://jmorrison11.github.io/projects/platformer) (Unity Engine in C# ((out-dated)))
-
-###### [back to home](https://jmorrison11.github.io)
