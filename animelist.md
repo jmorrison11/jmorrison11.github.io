@@ -2,9 +2,6 @@
 title: "animelist"
 permalink: /projects/animelist/ -->
 
-###### [back to home](jmorrison11.github.io)
-###### [back to project list](https://jmorrison11.github.io/projects)
-
 # Scenebuilder with API List (MyAnimeList)
 
 I built this program using the IDE Netbeans in the language of Java. The GUI was built in the JavaFX program called scenebuilder. 
