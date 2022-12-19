@@ -15,4 +15,8 @@ click the link to learn more about them
 
 #### 5. [Modifying an eShop](https://jmorrison11.github.io/eshop) (C#)
 
+#### 6. [Upgrading and Centralizing a Client's Technological Systems](https://jmorrison11.github.io/son)
+
+#### 7. [Creating a Website for a Client](https://www.morrisoneyecare.com/) (Wix)
+
 ###### [back to home](jmorrison11.github.io)
