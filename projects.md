@@ -13,10 +13,8 @@ click the link to learn more about them
 
 #### 4. [Generating Anime Girl Profile Pictures using Generative Adversarial Networks (GANs)](https://docs.google.com/document/d/1ApjsivXtgPK96RcoFizSxukXblAEcTayfSxSIYcvPb8/edit?usp=sharing) (Python)
 
-#### 5. [Modifying an eShop](https://jmorrison11.github.io/eshop) (C#)
+#### 5. [Upgrading and Centralizing a Client's Technological Systems](https://jmorrison11.github.io/son)
 
-#### 6. [Upgrading and Centralizing a Client's Technological Systems](https://jmorrison11.github.io/son)
-
-#### 7. [Creating a Website for a Client](https://www.morrisoneyecare.com/) (Wix)
+#### 6. [Creating a Website for a Client](https://www.morrisoneyecare.com/) (Wix)
 
 ###### [back to home](jmorrison11.github.io)
