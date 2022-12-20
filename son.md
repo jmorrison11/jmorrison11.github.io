@@ -21,3 +21,6 @@ needs as all as streamlining their online appilcation process for residents, vol
   - Added a secure password manager to the admin user.
   - Added a profile system in their browser for the manager users.
   - Created documentation on hardware security, giving them all detailed instructions on what to do and how to keep their technology secure. 
+
+###### [back to home](jmorrison11.github.io)
+###### [back to project list](https://jmorrison11.github.io/projects)
