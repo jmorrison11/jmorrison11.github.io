@@ -8,7 +8,7 @@ A major in Computer Science and a concentration in software development as well 
 ### [Project List](https://jmorrison11.github.io/projects)
 
 ### [Art Gallery](https://jmorrison11.github.io/gallery)
-- The gallery is still a work in progress so some of the traditional pieces I list are missing photos; however, I am in the process of adding all of them
+- The gallery is still a work in progress so some of the traditional pieces I list are missing photos; however, I am in the process of adding all of them.
 
 ### [LinkedIn](https://www.linkedin.com/feed/)
 
