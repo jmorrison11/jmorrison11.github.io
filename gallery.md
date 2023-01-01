@@ -14,4 +14,4 @@ permalink: /gallery/ -->
 
 #### 5. [Miscellaneous of Other/Old Pieces and/or WIPs](https://jmorrison11.github.io/wips)
 
-###### [back to home](jmorrison11.github.io)
+###### [back to home](jmorrison11.github.io) 
