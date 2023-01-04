@@ -3,7 +3,7 @@
 # My name is Jade. I'm 22 years old on my way to getting a bachelor's degree in Computer Science by May 2023 from The College of St Scholastica
 A major in Computer Science and a concentration in software development as well as a minor of art.
 
-### [Resume](https://docs.google.com/document/d/1JCJcp2bGHKMuNlelk9N0cZ2BCtkkqdsyaiWxkWBBWd4/edit?usp=sharing)
+### [Resume](https://docs.google.com/document/d/1q_6oFbBVyLRGp615tO8qgNIvlKeqmnP1ZM4FXER6yCU/edit?usp=sharing)
 
 ### [Project List](https://jmorrison11.github.io/projects)
 
