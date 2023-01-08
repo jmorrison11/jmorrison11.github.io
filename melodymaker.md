@@ -2,7 +2,7 @@
 title: "melodymaker"
 permalink: /melodymaker/ -->
 
-# Melody Maker
+# Stacks and Queues (Melody Maker)
 I used the IDE Netbeans to create this project. There is nothing visually unique about it like most of my other projects but it does play music. Refer to repository below.
 I'm going to describe below the methods and what they do. There are a couple that need some sork still but the majority of it works just as it should and shows an
 understanding of stacks and queues. 
