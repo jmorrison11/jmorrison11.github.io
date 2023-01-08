@@ -40,4 +40,4 @@ In the coding windows I like working in HTML and the styling languages and I'm a
 
 I intend to put more effort into learning Python as a backend/circuitry language and C# as a .NET website building tool.
 
-##### last updated 01/08/2022
+##### last updated 01/08/2023
