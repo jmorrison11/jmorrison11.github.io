@@ -8,7 +8,7 @@ I'm going to describe below the methods and what they do. There are a couple tha
 understanding of stacks and queues. 
 
 - public Melody(Queue<Note> song)
-    -Initializes your melody to store the passed in Queue of Notes. 
+  - Initializes your melody to store the passed in Queue of Notes. 
   
 - public double getTotalDuration()
   - Returns the total length of the song in seconds. If the song includes a repeated section the length should include that repeated section twice. 
