@@ -23,6 +23,6 @@ click the link to learn more about them
 
 #### 9. [Creating a Website for a Client](https://www.morrisoneyecare.com/) (Wix)
 
-#### 10. [A Couple of Outdated Unity Projects](https://jmorrison11.github.io/unity)
+#### 10. [A Couple of Outdated Unity Projects](https://jmorrison11.github.io/unity) (C#)
 
 ###### [back to home](jmorrison11.github.io)
