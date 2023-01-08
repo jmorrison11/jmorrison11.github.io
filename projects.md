@@ -19,7 +19,7 @@ click the link to learn more about them
 
 #### 7. [Generating Anime Girl Profile Pictures using Generative Adversarial Networks (GANs)](https://docs.google.com/document/d/1ApjsivXtgPK96RcoFizSxukXblAEcTayfSxSIYcvPb8/edit?usp=sharing) (Python)
 
-#### 8. [Upgrading and Centralizing a Client's Technological Systems](https://jmorrison11.github.io/son)
+#### 8. [Upgrading and Centralizing a Client's Technological Systems](https://jmorrison11.github.io/son) (Agile Project)
 
 #### 9. [Creating a Website for a Client](https://www.morrisoneyecare.com/) (Wix)
 
