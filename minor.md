@@ -14,19 +14,14 @@ These works are meant to be a more modern take on an old concept, using new form
 that are particularly moving.
 
 ## Dying Day (Digital, 2022) ![](/Art/DyingDay.JPG)
-### 
 
 ## I Have to Take the Bus (Acrylic, 2022) ![](/Art/Bus.jpg)
-### 
 
 ## If a Yellow SUV (Digital, 2022) ![](/Art/SUV.JPG)
-### 
 
 ## I Hope (Acrylic, 2022) ![](/Art/IHope.jpg)
-###
 
 ## I Would Give it all Back (Digital, 2022) ![](/Art/GiveBack.JPG)
-###
 
 ###### [back to home](jmorrison11.github.io) 
 ###### [back to gallery](jmorrison11.github.io/gallery)
